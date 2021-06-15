@@ -30,6 +30,6 @@ f09_render_plot <- function(mat_SWM, vec_RGB, file_path) {
 }
 
 # ----------------------------------------------------------------------------
-# file_path <- "C:\\Users\\NAVEEN\\Pictures\\TEXT_IMG_Messages\\05_EXP_04_Jun_06_2021\\"
+# file_path <- " [ Update location of folder for output plots and files (without the sq. brackets) ] "
 # f09_render_plot(mat_SWM, vec_RGB, file_path)
 # rm(f09_render_plot, file_path)
