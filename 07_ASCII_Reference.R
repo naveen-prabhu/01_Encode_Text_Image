@@ -24,7 +24,7 @@ f07_ascii_reference <- function() {
     cb_row <- cbind(val_ascii, val_chr, val_r, val_g, val_b)
     df_ref_ascii <- as.data.frame(rbind(df_ref_ascii, cb_row))
     
-    x <- x+3
+    x <- x + 3
   }
   
   colnames(df_ref_ascii) <- c("val_ascii", "val_chr", "val_R", "val_G", "val_B")
