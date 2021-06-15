@@ -1,10 +1,10 @@
 # 01_Encode_Text_Image
-@author: Naveen Prabhu.
-@projectDate: Jun 07, 2021.
-@projectVersion: 2.0.
+  @author: Naveen Prabhu.
+  @projectDate: Jun 07, 2021.
+  @projectVersion: 2.0.
 
-Project to convert text (or "Message") into images for the purpose of creating NFTs. 
-A proprietary algorithm is used for this conversion process. 
+  Project to convert text (or "Message") into images for the purpose of creating NFTs. 
+  A proprietary algorithm is used for this conversion process. 
 
 # Run the program 
   01) Download the code repository on your machine
@@ -110,5 +110,5 @@ A proprietary algorithm is used for this conversion process.
 
 
 # Contact details
-For additional details / queries, please drop me a note at "oneplusone.naveen@gmail.com".
-Subject line: "GitHub | 01_Encode_Text_Image | Discussion".
+  For additional details / queries, please drop me a note at "oneplusone.naveen@gmail.com".
+  Subject line: "GitHub | 01_Encode_Text_Image | Discussion".
