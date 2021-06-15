@@ -5,7 +5,7 @@
 
 f11_main_execute <- function(input_MSG, file_path) {
   # Define "code_path"
-  code_path <- "C:\\Users\\NAVEEN\\Documents\\R_Scripts\\Project_02\\"
+  code_path <- " [ Update location of the folder with these codes ] "
   
   # 01. Find N
   source(paste(code_path, "01_Find_N.R", sep = ""))
@@ -50,8 +50,8 @@ f11_main_execute <- function(input_MSG, file_path) {
 }
 
 # ----------------------------------------------------------------------------
-file_path <- "C:\\Users\\NAVEEN\\Pictures\\TEXT_IMG_Messages\\06_EXP_06_Jun_07_2021\\"
-input_MSG <- "Test message to commemorate the creation of this protocol."
+file_path <- " [ Update location of folder for output plots and files ] "
+input_MSG <- " [ Update text message that needs to be encoded / encrypted ] "
 
 # RUN THE MAIN FUNCTION 
 f11_main_execute(input_MSG, file_path)
