@@ -24,7 +24,7 @@ f03_replace_reference <- function() {
     cb_row <- cbind(val_ascii, val_chr, new_ascii, new_chr)
     df_ref_replace <- as.data.frame(rbind(df_ref_replace, cb_row))
     
-    x <- x+1
+    x <- x + 1
   }
   
   # REPLACE UPPER CASE ALPHABETS
@@ -40,7 +40,7 @@ f03_replace_reference <- function() {
     cb_row <- cbind(val_ascii, val_chr, new_ascii, new_chr)
     df_ref_replace <- as.data.frame(rbind(df_ref_replace, cb_row))
     
-    x <- x+1
+    x <- x + 1
   }
   
   # REPLACE LOWER CASE ALPHABETS
@@ -56,7 +56,7 @@ f03_replace_reference <- function() {
     cb_row <- cbind(val_ascii, val_chr, new_ascii, new_chr)
     df_ref_replace <- as.data.frame(rbind(df_ref_replace, cb_row))
     
-    x <- x+1
+    x <- x + 1
   }
   
   colnames(df_ref_replace) <- c("val_ascii", "val_chr", "new_ascii", "new_chr")
