@@ -5,7 +5,7 @@
 
 f11_main_execute <- function(input_MSG, file_path) {
   # Define "code_path"
-  code_path <- " [ Update location of the folder with these codes ] "
+  code_path <- " [ Update location of the folder with these codes (without the sq. brackets) ] "
   
   # 01. Find N
   source(paste(code_path, "01_Find_N.R", sep = ""))
@@ -50,8 +50,8 @@ f11_main_execute <- function(input_MSG, file_path) {
 }
 
 # ----------------------------------------------------------------------------
-file_path <- " [ Update location of folder for output plots and files ] "
-input_MSG <- " [ Update text message that needs to be encoded / encrypted ] "
+file_path <- " [ Update location of folder for output plots and files (without the sq. brackets) ] "
+input_MSG <- " [ Update text message that needs to be encoded / encrypted (without the sq. brackets) ] "
 
 # RUN THE MAIN FUNCTION 
 f11_main_execute(input_MSG, file_path)
