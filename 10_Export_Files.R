@@ -27,7 +27,7 @@ f10_export_files <- function(file_path, f1, f2, f3, f4, f5, f6, f7, f8) {
 }
 
 # ----------------------------------------------------------------------------
-# file_path <- "C:\\Users\\NAVEEN\\Pictures\\TEXT_IMG_Messages\\05_EXP_04_Jun_06_2021\\"
+# file_path <- " [ Update location of folder for output plots and files (without the sq. brackets) ] "
 # f10_export_files(file_path, f1 = input_MSG, f2 = mat_CWM, f3 = df_ref_replace, f4 = mat_RWM, 
 #                   f5 = df_ref_shuffle, f6 = mat_SWM, f7 = df_ref_ascii, f8 = vec_RGB)
 # rm(f10_export_files, file_path)
